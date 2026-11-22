@@ -1,0 +1,4078 @@
+{
+ "note": "离线语音包待合成清单，由 tools/export_pack_corpus.py 从 data/corpus.json 导出；勿手改。",
+ "voice": "de-DE-ConradNeural",
+ "sentenceRates": [
+  -50,
+  -35,
+  -20,
+  -5,
+  10
+ ],
+ "chunkRates": [
+  -5
+ ],
+ "sentences": [
+  {
+   "id": "L01",
+   "text": "Ich fahre jeden Morgen mit dem Bus zur Arbeit.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L02",
+   "text": "Heute ist das Wetter sehr schön, wir gehen im Park spazieren.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L03",
+   "text": "Meine Frau kauft am Samstag auf dem Markt frisches Obst.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L04",
+   "text": "Die Miete in der Stadt wird jedes Jahr teurer.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L05",
+   "text": "Im Supermarkt kostet ein Liter Milch etwa einen Euro.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L06",
+   "text": "Viele Menschen arbeiten jetzt zu Hause am Computer.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L07",
+   "text": "Am Sonntag besuche ich meine Eltern in Köln.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L08",
+   "text": "Der Zug nach Berlin hat heute zwanzig Minuten Verspätung.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L09",
+   "text": "Wir kochen abends zusammen und essen um sieben Uhr.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L10",
+   "text": "Die Kinder gehen um acht Uhr in die Schule.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L11",
+   "text": "Ich lerne seit drei Monaten Deutsch und übe jeden Tag.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L12",
+   "text": "Das neue Café in unserer Straße hat sehr guten Kaffee.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L13",
+   "text": "Im Winter wird es früh dunkel und sehr kalt.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L14",
+   "text": "Meine Nachbarn sind freundlich, wir helfen einander gern.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L15",
+   "text": "Nach der Arbeit gehe ich oft eine halbe Stunde joggen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A01",
+   "text": "Das neue Elektroauto fährt sehr leise und schnell.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A02",
+   "text": "Mein Auto ist alt, aber es fährt noch gut.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A03",
+   "text": "Der Tank ist fast leer, ich muss bald tanken.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A04",
+   "text": "Viele Deutsche kaufen jetzt ein Auto mit Elektromotor.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A05",
+   "text": "Auf der Autobahn gibt es heute einen langen Stau.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A06",
+   "text": "Der neue SUV kommt im Herbst auf den Markt.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A07",
+   "text": "Ich muss mein Auto im Winter mit Winterreifen fahren.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A08",
+   "text": "Die Werkstatt repariert den Motor in zwei Tagen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A09",
+   "text": "Ein Elektroauto braucht eine Ladestation und viel Strom.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A10",
+   "text": "Die Preise für Benzin sind in diesem Monat gestiegen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A11",
+   "text": "Mein Bruder arbeitet bei einem großen Autohersteller.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A12",
+   "text": "Im Auto darf man nicht mit dem Handy telefonieren.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A13",
+   "text": "Der Fahrer muss bei Rot an der Ampel halten.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A14",
+   "text": "Das Auto hat einen kleinen Kratzer an der Tür.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A15",
+   "text": "Nächste Woche mache ich einen Termin in der Werkstatt.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L21",
+   "text": "Im Supermarkt sind die Eier diese Woche im Angebot.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L22",
+   "text": "Wir suchen eine neue Wohnung, aber sie ist zu teuer.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L23",
+   "text": "Der Bus fährt heute nur alle zwanzig Minuten.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L24",
+   "text": "Im Herbst regnet es oft und die Blätter fallen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L25",
+   "text": "Mein Sohn hat morgen keine Schule und bleibt zu Hause.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L26",
+   "text": "Heute Abend gehen wir ins Restaurant, ich möchte Pizza bestellen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L27",
+   "text": "Ich habe Halsschmerzen und gehe heute zur Apotheke.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L28",
+   "text": "Zu Hause ist das Internet heute sehr langsam.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L29",
+   "text": "Ich habe im Internet Schuhe bestellt, das Paket kommt morgen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L30",
+   "text": "Am Wochenende feiern die Nachbarn ein Fest in unserer Straße.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L31",
+   "text": "Brot und Milch sind heute im Supermarkt billiger.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L32",
+   "text": "Es schneit schon, wir müssen die Jacken anziehen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L33",
+   "text": "Ich gehe dreimal pro Woche ins Fitnessstudio und trainiere dort eine Stunde.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L34",
+   "text": "In Deutschland trennen wir den Müll in Papier, Glas und Plastik.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L35",
+   "text": "Im Sommer fahren wir mit dem Zug nach Italien und bleiben dort zwei Wochen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L36",
+   "text": "Ich muss zur Bank gehen und ein neues Konto eröffnen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L37",
+   "text": "Ich schicke meiner Schwester ein Paket und kaufe eine Briefmarke.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L38",
+   "text": "Mein Handyvertrag kostet zwanzig Euro im Monat und läuft zwei Jahre.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L39",
+   "text": "Die Heizung läuft den ganzen Tag, deshalb ist meine Stromrechnung sehr hoch.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L40",
+   "text": "Mein Vater kauft jeden Monat ein paar Aktien und spart für seine Rente.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L41",
+   "text": "Am Wochenende helfe ich im Tierheim und füttere die kleinen Katzen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L42",
+   "text": "Unser Hund heißt Max, er ist drei Jahre alt und spielt gern im Garten.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L43",
+   "text": "Ich fahre mit dem Fahrrad zur Arbeit, das ist gesund und billig.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L44",
+   "text": "In der Bibliothek leihe ich mir drei Bücher aus und lese sie zu Hause.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "L45",
+   "text": "Deutsch ist schwer, aber ich lerne jeden Tag neue Wörter und höre Podcasts.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A21",
+   "text": "Ich lade mein Elektroauto jeden Abend in der Garage.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A22",
+   "text": "Mein Elektroauto fährt mit einer Ladung dreihundert Kilometer.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A23",
+   "text": "Diesel kostet an dieser Tankstelle fast zwei Euro.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A24",
+   "text": "Zu Hause ist das Laden billiger als an der Tankstelle.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A25",
+   "text": "Wir kaufen das Auto in kleinen Raten über drei Jahre.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A26",
+   "text": "Der Gebrauchtwagen hat schon hunderttausend Kilometer.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A27",
+   "text": "Ich muss im Mai mit meinem Auto zur Hauptuntersuchung fahren.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A28",
+   "text": "Der Mechaniker wechselt morgen das Öl.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A29",
+   "text": "Der Reifendruck ist zu niedrig, das ist gefährlich.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A30",
+   "text": "Bei Schnee muss man langsam und vorsichtig fahren.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A31",
+   "text": "Vor der Schule gilt nur Tempo dreißig.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A32",
+   "text": "Im Stau verlieren wir jeden Morgen viel Zeit.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A33",
+   "text": "Nach dem Unfall ruft er sofort die Polizei.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A34",
+   "text": "Die Versicherung zahlt den Schaden an meinem Auto.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A35",
+   "text": "In der Fahrschule lernen wir die Regeln für die Straße.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A36",
+   "text": "Morgen macht sie die Prüfung für den Führerschein.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A37",
+   "text": "In der Innenstadt ist ein Parkplatz sehr teuer.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A38",
+   "text": "Für zwei Stunden Parken zahlen wir fünf Euro.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A39",
+   "text": "Beim Carsharing leihen wir ein Auto für einen Tag.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A40",
+   "text": "Sie ruft ein Taxi über eine App.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A41",
+   "text": "Der Assistent im Auto hilft beim Einparken.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A42",
+   "text": "In dem Werk arbeiten viele Menschen aus der Stadt.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A43",
+   "text": "Neue Autos dürfen nicht so viel Abgas haben.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A44",
+   "text": "Für ein Elektroauto gibt es vom Staat Geld zurück.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "A45",
+   "text": "Kleine Kinder brauchen im Auto einen Kindersitz.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M01",
+   "text": "In diesem Winter sind die Heizkosten wieder stark gestiegen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M02",
+   "text": "Auf dem Land gibt es zu wenige Ladestationen für Elektroautos.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M03",
+   "text": "Die Preise steigen, aber mein Lohn bleibt gleich.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M04",
+   "text": "Mit dem Deutschlandticket kann man günstig mit Bus und Bahn fahren.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M05",
+   "text": "Im Discounter sind die Lebensmittel oft billiger als im Supermarkt.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M06",
+   "text": "In vielen Städten gibt es jetzt neue Radwege für Fahrräder.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M07",
+   "text": "Meine Großmutter braucht im Alter Hilfe und gute Pflege.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M08",
+   "text": "Der Staat zahlt keine Prämie mehr für neue Elektroautos.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M09",
+   "text": "In unserer Stadt fehlen viele Plätze im Kindergarten.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M10",
+   "text": "In manchen Städten dürfen alte Dieselautos nicht mehr fahren.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M11",
+   "text": "Man kann viele Termine beim Amt jetzt online buchen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M12",
+   "text": "In der Innenstadt gilt jetzt Tempo 30 für alle Autos.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M13",
+   "text": "Seit der Pandemie arbeiten viele Leute ein paar Tage zu Hause.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M14",
+   "text": "Jeden Tag fahren viele Lastwagen mit Waren über die Autobahn.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M15",
+   "text": "Nach dem vielen Regen ist der Fluss schnell gestiegen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M16",
+   "text": "Viele Busfahrer fehlen, deshalb fahren manche Busse seltener.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M17",
+   "text": "Das Wasser aus dem Hahn ist in Deutschland sehr sauber.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M18",
+   "text": "Die alte Batterie vom Auto muss man richtig entsorgen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M19",
+   "text": "Der Käse und die Butter sind im letzten Jahr teurer geworden.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M20",
+   "text": "In der Stadt kann man sich ein E-Bike oder einen Roller leihen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M21",
+   "text": "Im Sommer wird es in den Städten immer heißer.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M22",
+   "text": "Wegen des Staus brauche ich eine Stunde zur Arbeit.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M23",
+   "text": "Der Mindestlohn ist dieses Jahr ein wenig gestiegen.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M24",
+   "text": "Der Fahrer muss nach dem Unfall seinen Führerschein abgeben.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  },
+  {
+   "id": "M25",
+   "text": "Beim Arzt muss man oft lange auf einen Termin warten.",
+   "rates": [
+    -50,
+    -35,
+    -20,
+    -5,
+    10
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "id": "L01#0",
+   "text": "Ich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L01#1",
+   "text": "fahre",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L01#2",
+   "text": "jeden Morgen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L01#3",
+   "text": "mit dem Bus",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L01#4",
+   "text": "zur Arbeit",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L02#0",
+   "text": "Heute",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L02#1",
+   "text": "ist das Wetter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L02#2",
+   "text": "sehr schön",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L02#3",
+   "text": "wir gehen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L02#4",
+   "text": "im Park spazieren",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L03#0",
+   "text": "Meine Frau",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L03#1",
+   "text": "kauft",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L03#2",
+   "text": "am Samstag",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L03#3",
+   "text": "auf dem Markt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L03#4",
+   "text": "frisches Obst",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L04#0",
+   "text": "Die Miete",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L04#1",
+   "text": "in der Stadt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L04#2",
+   "text": "wird",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L04#3",
+   "text": "jedes Jahr",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L04#4",
+   "text": "teurer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L05#0",
+   "text": "Im Supermarkt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L05#1",
+   "text": "kostet",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L05#2",
+   "text": "ein Liter Milch",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L05#3",
+   "text": "etwa",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L05#4",
+   "text": "einen Euro",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L06#0",
+   "text": "Viele Menschen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L06#1",
+   "text": "arbeiten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L06#2",
+   "text": "jetzt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L06#3",
+   "text": "zu Hause",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L06#4",
+   "text": "am Computer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L07#0",
+   "text": "Am Sonntag",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L07#1",
+   "text": "besuche ich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L07#2",
+   "text": "meine Eltern",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L07#3",
+   "text": "in Köln",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L08#0",
+   "text": "Der Zug",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L08#1",
+   "text": "nach Berlin",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L08#2",
+   "text": "hat heute",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L08#3",
+   "text": "zwanzig Minuten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L08#4",
+   "text": "Verspätung",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L09#0",
+   "text": "Wir kochen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L09#1",
+   "text": "abends",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L09#2",
+   "text": "zusammen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L09#3",
+   "text": "und essen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L09#4",
+   "text": "um sieben Uhr",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L10#0",
+   "text": "Die Kinder",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L10#1",
+   "text": "gehen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L10#2",
+   "text": "um acht Uhr",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L10#3",
+   "text": "in die Schule",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L11#0",
+   "text": "Ich lerne",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L11#1",
+   "text": "seit drei Monaten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L11#2",
+   "text": "Deutsch",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L11#3",
+   "text": "und übe",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L11#4",
+   "text": "jeden Tag",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L12#0",
+   "text": "Das neue Café",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L12#1",
+   "text": "in unserer Straße",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L12#2",
+   "text": "hat",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L12#3",
+   "text": "sehr guten Kaffee",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L13#0",
+   "text": "Im Winter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L13#1",
+   "text": "wird es",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L13#2",
+   "text": "früh dunkel",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L13#3",
+   "text": "und sehr kalt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L14#0",
+   "text": "Meine Nachbarn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L14#1",
+   "text": "sind freundlich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L14#2",
+   "text": "wir helfen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L14#3",
+   "text": "einander",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L14#4",
+   "text": "gern",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L15#0",
+   "text": "Nach der Arbeit",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L15#1",
+   "text": "gehe ich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L15#2",
+   "text": "oft",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L15#3",
+   "text": "eine halbe Stunde",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L15#4",
+   "text": "joggen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A01#0",
+   "text": "Das neue Elektroauto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A01#1",
+   "text": "fährt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A01#2",
+   "text": "sehr leise",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A01#3",
+   "text": "und schnell",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A02#0",
+   "text": "Mein Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A02#1",
+   "text": "ist alt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A02#2",
+   "text": "aber",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A02#3",
+   "text": "es fährt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A02#4",
+   "text": "noch gut",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A03#0",
+   "text": "Der Tank",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A03#1",
+   "text": "ist fast leer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A03#2",
+   "text": "ich muss",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A03#3",
+   "text": "bald tanken",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A04#0",
+   "text": "Viele Deutsche",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A04#1",
+   "text": "kaufen jetzt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A04#2",
+   "text": "ein Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A04#3",
+   "text": "mit Elektromotor",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A05#0",
+   "text": "Auf der Autobahn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A05#1",
+   "text": "gibt es",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A05#2",
+   "text": "heute",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A05#3",
+   "text": "einen langen Stau",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A06#0",
+   "text": "Der neue SUV",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A06#1",
+   "text": "kommt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A06#2",
+   "text": "im Herbst",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A06#3",
+   "text": "auf den Markt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A07#0",
+   "text": "Ich muss",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A07#1",
+   "text": "mein Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A07#2",
+   "text": "im Winter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A07#3",
+   "text": "mit Winterreifen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A07#4",
+   "text": "fahren",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A08#0",
+   "text": "Die Werkstatt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A08#1",
+   "text": "repariert",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A08#2",
+   "text": "den Motor",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A08#3",
+   "text": "in zwei Tagen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A09#0",
+   "text": "Ein Elektroauto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A09#1",
+   "text": "braucht",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A09#2",
+   "text": "eine Ladestation",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A09#3",
+   "text": "und viel Strom",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A10#0",
+   "text": "Die Preise",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A10#1",
+   "text": "für Benzin",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A10#2",
+   "text": "sind",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A10#3",
+   "text": "in diesem Monat",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A10#4",
+   "text": "gestiegen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A11#0",
+   "text": "Mein Bruder",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A11#1",
+   "text": "arbeitet",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A11#2",
+   "text": "bei einem",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A11#3",
+   "text": "großen Autohersteller",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A12#0",
+   "text": "Im Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A12#1",
+   "text": "darf man nicht",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A12#2",
+   "text": "mit dem Handy",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A12#3",
+   "text": "telefonieren",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A13#0",
+   "text": "Der Fahrer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A13#1",
+   "text": "muss",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A13#2",
+   "text": "bei Rot",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A13#3",
+   "text": "an der Ampel",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A13#4",
+   "text": "halten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A14#0",
+   "text": "Das Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A14#2",
+   "text": "einen kleinen Kratzer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A14#3",
+   "text": "an der Tür",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A15#0",
+   "text": "Nächste Woche",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A15#1",
+   "text": "mache ich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A15#2",
+   "text": "einen Termin",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A15#3",
+   "text": "in der Werkstatt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L21#2",
+   "text": "die Eier",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L21#3",
+   "text": "diese Woche",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L21#4",
+   "text": "im Angebot",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L22#0",
+   "text": "Wir",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L22#1",
+   "text": "suchen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L22#2",
+   "text": "eine neue Wohnung",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L22#4",
+   "text": "sie",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L22#5",
+   "text": "ist zu teuer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L23#0",
+   "text": "Der Bus",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L23#3",
+   "text": "nur",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L23#4",
+   "text": "alle zwanzig Minuten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L24#0",
+   "text": "Im Herbst",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L24#1",
+   "text": "regnet es",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L24#3",
+   "text": "und",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L24#4",
+   "text": "die Blätter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L24#5",
+   "text": "fallen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L25#0",
+   "text": "Mein Sohn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L25#2",
+   "text": "morgen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L25#3",
+   "text": "keine Schule",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L25#5",
+   "text": "bleibt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L26#0",
+   "text": "Heute Abend",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L26#1",
+   "text": "gehen wir",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L26#2",
+   "text": "ins Restaurant",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L26#3",
+   "text": "ich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L26#4",
+   "text": "möchte",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L26#5",
+   "text": "Pizza bestellen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L27#1",
+   "text": "habe",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L27#2",
+   "text": "Halsschmerzen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L27#4",
+   "text": "gehe",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L27#6",
+   "text": "zur Apotheke",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L28#0",
+   "text": "Zu Hause",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L28#1",
+   "text": "ist",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L28#2",
+   "text": "das Internet",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L28#4",
+   "text": "sehr langsam",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L29#2",
+   "text": "im Internet",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L29#3",
+   "text": "Schuhe bestellt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L29#4",
+   "text": "das Paket",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L30#0",
+   "text": "Am Wochenende",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L30#1",
+   "text": "feiern",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L30#2",
+   "text": "die Nachbarn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L30#3",
+   "text": "ein Fest",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L31#0",
+   "text": "Brot und Milch",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L31#3",
+   "text": "im Supermarkt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L31#4",
+   "text": "billiger",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L32#0",
+   "text": "Es schneit",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L32#1",
+   "text": "schon",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L32#2",
+   "text": "wir",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L32#3",
+   "text": "müssen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L32#4",
+   "text": "die Jacken",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L32#5",
+   "text": "anziehen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L33#2",
+   "text": "dreimal pro Woche",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L33#3",
+   "text": "ins Fitnessstudio",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L33#5",
+   "text": "trainiere",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L33#6",
+   "text": "dort",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L33#7",
+   "text": "eine Stunde",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L34#0",
+   "text": "In Deutschland",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L34#1",
+   "text": "trennen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L34#3",
+   "text": "den Müll",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L34#4",
+   "text": "in",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L34#5",
+   "text": "Papier, Glas und Plastik",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L35#0",
+   "text": "Im Sommer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L35#3",
+   "text": "mit dem Zug",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L35#4",
+   "text": "nach Italien",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L35#6",
+   "text": "bleiben",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L35#7",
+   "text": "dort zwei Wochen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L36#2",
+   "text": "zur Bank",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L36#5",
+   "text": "ein neues Konto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L36#6",
+   "text": "eröffnen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L37#1",
+   "text": "schicke",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L37#2",
+   "text": "meiner Schwester",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L37#3",
+   "text": "ein Paket",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L37#5",
+   "text": "kaufe",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L37#6",
+   "text": "eine Briefmarke",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L38#0",
+   "text": "Mein Handyvertrag",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L38#2",
+   "text": "zwanzig Euro",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L38#3",
+   "text": "im Monat",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L38#5",
+   "text": "läuft",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L38#6",
+   "text": "zwei Jahre",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L39#0",
+   "text": "Die Heizung",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L39#2",
+   "text": "den ganzen Tag",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L39#3",
+   "text": "deshalb",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L39#5",
+   "text": "meine Stromrechnung",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L39#6",
+   "text": "sehr hoch",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L40#0",
+   "text": "Mein Vater",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L40#2",
+   "text": "jeden Monat",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L40#3",
+   "text": "ein paar Aktien",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L40#5",
+   "text": "spart",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L40#6",
+   "text": "für seine Rente",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L41#1",
+   "text": "helfe",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L41#3",
+   "text": "im Tierheim",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L41#5",
+   "text": "füttere",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L41#6",
+   "text": "die kleinen Katzen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L42#0",
+   "text": "Unser Hund",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L42#1",
+   "text": "heißt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L42#2",
+   "text": "Max",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L42#3",
+   "text": "er",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L42#4",
+   "text": "ist drei Jahre alt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L42#6",
+   "text": "spielt gern",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L42#7",
+   "text": "im Garten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L43#2",
+   "text": "mit dem Fahrrad",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L43#4",
+   "text": "das",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L43#6",
+   "text": "gesund und billig",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L44#0",
+   "text": "In der Bibliothek",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L44#1",
+   "text": "leihe",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L44#2",
+   "text": "ich mir",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L44#3",
+   "text": "drei Bücher",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L44#4",
+   "text": "aus",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L44#6",
+   "text": "lese sie",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L45#1",
+   "text": "ist schwer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L45#4",
+   "text": "lerne",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L45#6",
+   "text": "neue Wörter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "L45#8",
+   "text": "höre Podcasts",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A21#1",
+   "text": "lade",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A21#2",
+   "text": "mein Elektroauto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A21#3",
+   "text": "jeden Abend",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A21#4",
+   "text": "in der Garage",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A22#0",
+   "text": "Mein Elektroauto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A22#2",
+   "text": "mit einer Ladung",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A22#3",
+   "text": "dreihundert Kilometer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A23#0",
+   "text": "Diesel",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A23#2",
+   "text": "an dieser Tankstelle",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A23#3",
+   "text": "fast zwei Euro",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A24#2",
+   "text": "das Laden",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A24#4",
+   "text": "als an der Tankstelle",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A25#0",
+   "text": "Wir kaufen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A25#1",
+   "text": "das Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A25#2",
+   "text": "in kleinen Raten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A25#3",
+   "text": "über drei Jahre",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A26#0",
+   "text": "Der Gebrauchtwagen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A26#3",
+   "text": "hunderttausend Kilometer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A27#1",
+   "text": "im Mai",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A27#2",
+   "text": "mit meinem Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A27#3",
+   "text": "zur Hauptuntersuchung",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A28#0",
+   "text": "Der Mechaniker",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A28#1",
+   "text": "wechselt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A28#3",
+   "text": "das Öl",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A29#0",
+   "text": "Der Reifendruck",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A29#2",
+   "text": "zu niedrig",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A29#3",
+   "text": "das ist gefährlich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A30#0",
+   "text": "Bei Schnee",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A30#1",
+   "text": "muss man",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A30#2",
+   "text": "langsam",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A30#3",
+   "text": "und vorsichtig",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A31#0",
+   "text": "Vor der Schule",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A31#1",
+   "text": "gilt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A31#3",
+   "text": "Tempo dreißig",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A32#0",
+   "text": "Im Stau",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A32#1",
+   "text": "verlieren",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A32#4",
+   "text": "viel Zeit",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A33#0",
+   "text": "Nach dem Unfall",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A33#1",
+   "text": "ruft",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A33#3",
+   "text": "sofort",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A33#4",
+   "text": "die Polizei",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A34#0",
+   "text": "Die Versicherung",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A34#1",
+   "text": "zahlt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A34#2",
+   "text": "den Schaden",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A34#3",
+   "text": "an meinem Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A35#0",
+   "text": "In der Fahrschule",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A35#1",
+   "text": "lernen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A35#3",
+   "text": "die Regeln",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A35#4",
+   "text": "für die Straße",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A36#0",
+   "text": "Morgen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A36#1",
+   "text": "macht",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A36#3",
+   "text": "die Prüfung",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A36#4",
+   "text": "für den Führerschein",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A37#0",
+   "text": "In der Innenstadt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A37#2",
+   "text": "ein Parkplatz",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A37#3",
+   "text": "sehr teuer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A38#0",
+   "text": "Für zwei Stunden",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A38#1",
+   "text": "Parken",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A38#2",
+   "text": "zahlen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A38#4",
+   "text": "fünf Euro",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A39#0",
+   "text": "Beim Carsharing",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A39#1",
+   "text": "leihen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A39#4",
+   "text": "für einen Tag",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A40#0",
+   "text": "Sie",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A40#2",
+   "text": "ein Taxi",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A40#3",
+   "text": "über eine App",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A41#0",
+   "text": "Der Assistent",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A41#1",
+   "text": "im Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A41#2",
+   "text": "hilft",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A41#3",
+   "text": "beim Einparken",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A42#0",
+   "text": "In dem Werk",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A42#2",
+   "text": "viele Menschen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A42#3",
+   "text": "aus der Stadt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A43#0",
+   "text": "Neue Autos",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A43#1",
+   "text": "dürfen nicht",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A43#2",
+   "text": "so viel Abgas",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A43#3",
+   "text": "haben",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A44#0",
+   "text": "Für ein Elektroauto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A44#2",
+   "text": "vom Staat",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A44#3",
+   "text": "Geld zurück",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A45#0",
+   "text": "Kleine Kinder",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A45#1",
+   "text": "brauchen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "A45#3",
+   "text": "einen Kindersitz",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M01#0",
+   "text": "In diesem Winter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M01#2",
+   "text": "die Heizkosten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M01#3",
+   "text": "wieder",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M01#4",
+   "text": "stark gestiegen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M02#0",
+   "text": "Auf dem Land",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M02#2",
+   "text": "zu wenige",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M02#3",
+   "text": "Ladestationen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M02#4",
+   "text": "für Elektroautos",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M03#1",
+   "text": "steigen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M03#3",
+   "text": "mein Lohn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M03#4",
+   "text": "bleibt gleich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M04#0",
+   "text": "Mit dem Deutschlandticket",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M04#1",
+   "text": "kann man",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M04#2",
+   "text": "günstig",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M04#3",
+   "text": "mit Bus und Bahn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M05#0",
+   "text": "Im Discounter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M05#2",
+   "text": "die Lebensmittel",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M05#4",
+   "text": "billiger als",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M06#0",
+   "text": "In vielen Städten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M06#3",
+   "text": "neue Radwege",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M06#4",
+   "text": "für Fahrräder",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M07#0",
+   "text": "Meine Großmutter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M07#2",
+   "text": "im Alter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M07#3",
+   "text": "Hilfe",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M07#4",
+   "text": "und gute Pflege",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M08#0",
+   "text": "Der Staat",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M08#2",
+   "text": "keine Prämie mehr",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M08#3",
+   "text": "für neue Elektroautos",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M09#0",
+   "text": "In unserer Stadt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M09#1",
+   "text": "fehlen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M09#2",
+   "text": "viele Plätze",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M09#3",
+   "text": "im Kindergarten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M10#0",
+   "text": "In manchen Städten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M10#1",
+   "text": "dürfen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M10#2",
+   "text": "alte Dieselautos",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M10#3",
+   "text": "nicht mehr",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M11#0",
+   "text": "Man kann",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M11#1",
+   "text": "viele Termine",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M11#2",
+   "text": "beim Amt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M11#4",
+   "text": "online buchen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M12#3",
+   "text": "Tempo 30",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M12#4",
+   "text": "für alle Autos",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M13#0",
+   "text": "Seit der Pandemie",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M13#2",
+   "text": "viele Leute",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M13#3",
+   "text": "ein paar Tage",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M14#0",
+   "text": "Jeden Tag",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M14#2",
+   "text": "viele Lastwagen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M14#3",
+   "text": "mit Waren",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M14#4",
+   "text": "über die Autobahn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M15#0",
+   "text": "Nach dem vielen Regen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M15#2",
+   "text": "der Fluss",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M15#3",
+   "text": "schnell",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M16#0",
+   "text": "Viele Busfahrer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M16#4",
+   "text": "manche Busse",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M16#5",
+   "text": "seltener",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M17#0",
+   "text": "Das Wasser",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M17#1",
+   "text": "aus dem Hahn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M17#3",
+   "text": "in Deutschland",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M17#4",
+   "text": "sehr sauber",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M18#0",
+   "text": "Die alte Batterie",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M18#1",
+   "text": "vom Auto",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M18#3",
+   "text": "richtig",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M18#4",
+   "text": "entsorgen",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M19#0",
+   "text": "Der Käse",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M19#1",
+   "text": "und die Butter",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M19#3",
+   "text": "im letzten Jahr",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M19#4",
+   "text": "teurer geworden",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M20#0",
+   "text": "In der Stadt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M20#2",
+   "text": "sich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M20#3",
+   "text": "ein E-Bike",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M20#4",
+   "text": "oder einen Roller",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M21#2",
+   "text": "in den Städten",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M21#3",
+   "text": "immer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M21#4",
+   "text": "heißer",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M22#0",
+   "text": "Wegen des Staus",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M22#1",
+   "text": "brauche ich",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M23#0",
+   "text": "Der Mindestlohn",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M23#2",
+   "text": "dieses Jahr",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M23#3",
+   "text": "ein wenig",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M24#2",
+   "text": "nach dem Unfall",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M24#3",
+   "text": "seinen Führerschein",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M24#4",
+   "text": "abgeben",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M25#0",
+   "text": "Beim Arzt",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M25#2",
+   "text": "oft lange",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M25#3",
+   "text": "auf einen Termin",
+   "rates": [
+    -5
+   ]
+  },
+  {
+   "id": "M25#4",
+   "text": "warten",
+   "rates": [
+    -5
+   ]
+  }
+ ]
+}
