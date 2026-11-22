@@ -1,0 +1,45 @@
+name: build-audio
+
+# 离线语音包：把语料用免 Key 的 edge-tts 预合成成 MP3，提交回仓库，Pages 自动重部署。
+# 语料是静态的，所以每周跑一次自愈即可；改了语料后可以手动触发。
+on:
+  workflow_dispatch:
+  schedule:
+    # 每周一 UTC 21:00 = 北京时间周二 05:00
+    - cron: "0 21 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-audio
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install edge-tts (keyless)
+        run: python -m pip install --disable-pip-version-check edge-tts
+
+      - name: Build offline voice pack
+        run: python scripts/build_audio.py --workers 8
+
+      - name: Commit audio pack
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A audio audio.json
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore(audio): offline voice pack $(date -u +%F)"
+            git push
+          else
+            echo "无变化，跳过提交"
+          fi
